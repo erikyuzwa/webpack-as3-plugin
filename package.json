@@ -17,6 +17,11 @@
     "name": "Erik Yuzwa",
     "email": "erikyuzwa@gmail.com"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikyuzwa/webpack-as3-plugin.git"
+  },
+  "homepage": "https://github.com/erikyuzwa/webpack-as3-plugin#readme",
   "license": "MIT",
   "engines": {
     "node": ">=6.0.0"

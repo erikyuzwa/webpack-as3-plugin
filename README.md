@@ -44,7 +44,7 @@ module.exports = {
 
 and you're done! Some helpful console logging should alert you of any issues.
 
-Check out the examples folder for some more examples.
+Check out the [example folder](/example) for an example.
 
 ## options
 
