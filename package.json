@@ -1,0 +1,27 @@
+{
+  "name": "webpack-as3-plugin",
+  "version": "0.7.0",
+  "description": "This plugin for Webpack is an experiment to compile some ActionScript with the help of mxmlc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flash",
+    "swf",
+    "as3",
+    "mxmlc",
+    "awesomesauce"
+  ],
+  "author": {
+    "name": "Erik Yuzwa",
+    "email": "erikyuzwa@gmail.com"
+  },
+  "license": "MIT",
+  "peerDependencies": {
+    "webpack": "^4.29.0"
+  },
+  "dependencies": {
+    "@erikyuzwa/node-air-sdk": "^1.0.4"
+  }
+}
