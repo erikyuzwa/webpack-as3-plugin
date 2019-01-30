@@ -17,7 +17,7 @@ or
 
 ## requirements
 
-This plugin requires at least Node v6. But otherwise, should accept most webpack versions (2+).
+This plugin requires at least Node v6. But otherwise, should accept Webpack versions (1, 2, 3, 4).
 
 ## usage
 

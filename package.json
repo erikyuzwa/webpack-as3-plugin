@@ -18,8 +18,11 @@
     "email": "erikyuzwa@gmail.com"
   },
   "license": "MIT",
+  "engines": {
+    "node": ">=6.0.0"
+  },
   "peerDependencies": {
-    "webpack": "^4.29.0"
+    "webpack": "^1 || ^2 || ^3 || ^4"
   },
   "dependencies": {
     "@erikyuzwa/node-air-sdk": "^1.0.4"
